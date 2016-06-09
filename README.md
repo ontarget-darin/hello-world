@@ -1,2 +1,3 @@
 # hello-world
-seeking to understand how GitHub works first-hand
+
+I'm a website developer with 15 years experience wanting to learn how to create and better manage projects with GitHub.
